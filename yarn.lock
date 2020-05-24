@@ -4050,10 +4050,10 @@ algoliasearch@^3.24.5:
     semver "^5.1.0"
     tunnel-agent "^0.6.0"
 
-all-contributors-cli@6.14.1:
-  version "6.14.1"
-  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-6.14.1.tgz#1aec3d79b0f6f72534d3f396ace80a106b90fdc1"
-  integrity sha512-CKebsaWgOpHGC6ypEYv93q6Frh3H/shuSXF/UhSfG46QxvDM98HzL3sY7o/zvoYLrrF8rEhyjEuHzJq/DNiYwg==
+all-contributors-cli@6.15.0:
+  version "6.15.0"
+  resolved "https://registry.yarnpkg.com/all-contributors-cli/-/all-contributors-cli-6.15.0.tgz#b6e3518d324431f94514989cac412a7f4a7455e2"
+  integrity sha512-dITUDL9cZzSq+nZmCC5F5x5FnvVMsuNNboK79rgkCuxe6ojSLH9qRDAdiJvprWBmEvRd5tcuEBrcS5uE3nBInQ==
   dependencies:
     "@babel/runtime" "^7.7.6"
     async "^3.0.1"
@@ -13532,7 +13532,6 @@ npm@6.14.2:
     cmd-shim "^3.0.3"
     columnify "~1.5.4"
     config-chain "^1.1.12"
-    debuglog "*"
     detect-indent "~5.0.0"
     detect-newline "^2.1.0"
     dezalgo "~1.0.3"
@@ -13547,7 +13546,6 @@ npm@6.14.2:
     has-unicode "~2.0.1"
     hosted-git-info "^2.8.8"
     iferr "^1.0.2"
-    imurmurhash "*"
     infer-owner "^1.0.4"
     inflight "~1.0.6"
     inherits "^2.0.4"
@@ -13566,14 +13564,8 @@ npm@6.14.2:
     libnpx "^10.2.2"
     lock-verify "^2.1.0"
     lockfile "^1.0.4"
-    lodash._baseindexof "*"
     lodash._baseuniq "~4.6.0"
-    lodash._bindcallback "*"
-    lodash._cacheindexof "*"
-    lodash._createcache "*"
-    lodash._getnative "*"
     lodash.clonedeep "~4.5.0"
-    lodash.restparam "*"
     lodash.union "~4.6.0"
     lodash.uniq "~4.5.0"
     lodash.without "~4.4.0"
